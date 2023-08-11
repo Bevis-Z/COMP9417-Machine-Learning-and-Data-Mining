@@ -1,4 +1,4 @@
-Kaggle competition, the main page of competition is:
+## This project based on the Kaggle competition, the main page of competition is:
 https://www.kaggle.com/competitions/otto-recommender-system
 
 In our project, we implemented the recommender system based the dataset provided by Otto and Kaggle, and basically we have tried the following method: 
